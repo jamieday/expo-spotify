@@ -1,0 +1,17 @@
+{
+  "platforms": [
+    "apple",
+    "android",
+    "web"
+  ],
+  "apple": {
+    "modules": [
+      "SpotifyIosModule"
+    ]
+  },
+  "android": {
+    "modules": [
+      "expo.modules.spotifyios.SpotifyIosModule"
+    ]
+  }
+}
